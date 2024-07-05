@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML**
 
-- 📫 How to reach me **moshiuriu@gmail.com**
+- 📫 How to reach me **moshiuriu24ict@gmail.com**
 
 - 📄 Know about my experiences (Tutor of HTML & C)
 
