@@ -2,19 +2,19 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*bLmYSRwp0jbtk_1z">
 
-- 🔭 I’m currently working on [HTML Project](https://github.com/Moshiur-Rahman-01/My-html-project/blob/main/My_html_project.html)
+- 🔭 I’m currently working on own project
 
-- 🌱 I’m currently learning **css,c++,DSA**
+- 🌱 I’m currently learning **CSS,C++,DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moshiur-Rahman-01](https://github.com/Moshiur-Rahman-01)
 
 - 📝 I regularly write articles on [code](code)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **moshiuriu@gmail.com**
 
-- 📄 Know about my experiences [Tutor of HTML & C](Tutor of HTML & C)
+- 📄 Know about my experiences (Tutor of HTML & C)
 
 - ⚡ Fun fact **I think I am cool**
 
@@ -23,8 +23,8 @@
 <a href="https://twitter.com/moshiurkst78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moshiurkst78" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-moshiur-rahman-96117a288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-moshiur-rahman-96117a288" height="30" width="40" /></a>
 <a href="https://fb.com/freelancermoshiur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancermoshiur/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/moshiur_rahman_34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moshiur_rahman_34/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uct4efk6jodvuqk-oqjkkosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct4efk6jodvuqk-oqjkkosg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/moshiur_rahman_34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moshiur_rahman_34/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
